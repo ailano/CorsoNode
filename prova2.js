@@ -1,3 +1,0 @@
-/*
-Ti piace! funziona?
-*/
