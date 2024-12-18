@@ -7,7 +7,7 @@ const numero = 10;
 
 if(numero < 10){
     console.log("il numero è minore di 10");
-}else if(numero==3){
+}else if(numero==10){
     console.log("il numero è uguale a 10");
 } else{
     console.log("il numero è maggiore di 10");
