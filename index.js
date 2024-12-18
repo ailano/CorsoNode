@@ -12,3 +12,7 @@ if(numero < 3){
 } else{
     console.log("il numero è maggiore di 3");
 }
+
+for(i=0; i<10; i++){
+    console.log(i);
+}
